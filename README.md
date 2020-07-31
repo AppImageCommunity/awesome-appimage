@@ -33,7 +33,9 @@
 	- [Low-level tools](#low-level-tools)
 	- [Build systems](#build-systems)
 	- [Deployment tools for compiled applications](#deployment-tools-for-compiled-applications)
+	- [Deployment tools for Python applications](#deployment-tools-for-python-applications)
 	- [Tools to convert from other package formats](#tools-to-convert-from-other-package-formats)
+	- [QC tools](#qc-tools)
 	- [Libraries](#libaries)
 - [Resources](#resources)
 	- [Specs](#specs)
@@ -102,6 +104,12 @@
 
 - [linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications
 - [linuxdeploy](https://github.com/linuxdeploy/linuxdeploy) - AppDir creation and maintenance tool using plugins
+
+### Deployment tools for Python applications
+
+- [python-appimage](https://github.com/niess/python-appimage) - Ready to use AppImage distributions of Python (can be modified to include your application)
+- [linuxdeploy-plugin-python](https://github.com/niess/linuxdeploy-plugin-python) - Bundle Python into an AppDir using a source distribution and linuxdeploy
+- [linuxdeploy-plugin-conda](https://github.com/linuxdeploy/linuxdeploy-plugin-conda) - Bundle Python into an AppDir using a source distribution, Conda, and linuxdeploy
 
 ### Tools to convert from other package formats
 
