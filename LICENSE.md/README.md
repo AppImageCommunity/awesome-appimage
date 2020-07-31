@@ -20,10 +20,31 @@
 
 ## Contents
 
+- [AppImage discovery](#appimage-discovery)
+	- [App Stores](#app-stores)
+	- [App Centers](#app-centers)
 - [AppImage consumption tools](#appimage-consumption-tools)
 	- [Desktop integration](#desktop-integration)
 	- [Package managers](#package-managers)
 - [AppImage production tools](#appimage-production-tools)
+- [Resources](#resources)
+	- [Tutorials](#tutorials)
+	- [Articles](#articles)
+	- [Newsletters](#newsletters)
+	- [Videos](#videos)
+	- [Books](#books)
+	- [Blogs](#blogs)
+	- [Courses](#courses)
+	- [Cheatsheets](#cheatsheets)
+	- [Tools](#tools)
+	- [Community](#community)
+	- [Miscellaneous](#miscellaneous-1)
+
+## AppImage discovery
+
+### App stores
+
+### App centers
 
 ## AppImage consumption tools
 
@@ -36,3 +57,23 @@
 ### Package managers
 
 ## AppImage production tools
+
+## Resources
+
+### Tutorials
+
+### Articles
+
+### Newsletters
+
+### Videos
+
+### Books
+
+### Blogs
+
+### Courses
+
+### Community
+
+### Miscellaneous
