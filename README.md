@@ -131,6 +131,7 @@
 
 ### Deployment tools for Windows applications
 
+- [wine32-deploy](https://github.com/sudo-give-me-coffee/wine32-deploy) - Creates AppImages for 32-bit Windows applications that can run on 64-bit Linux systems without multilib installed
 - [win32-appimage](https://github.com/sudo-give-me-coffee/win32-appimage) - WINE-based AppImage creator for Windows applications
 - [AppImage For WINE](https://github.com/Hackerl/Wine_Appimage) - WINE-based AppImages and LD_PRELOAD based patches to launch WINE from AppImages
 
