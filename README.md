@@ -40,6 +40,7 @@
 	- [Tools to convert from other package formats](#tools-to-convert-from-other-package-formats)
 	- [QC tools](#qc-tools)
 	- [Libraries](#libaries)
+	- [Templates](#templates)
 - [Resources](#resources)
 	- [Specs](#specs)
 	- [Documentation](#documentation)
@@ -150,6 +151,10 @@
 - [AppImageServices](https://github.com/azubieta/AppImageServices) - D-Bus services providing a high-level interface over the AppImage manipulation libraries for file managers, software centers and other tools
 - [libappimage](https://github.com/AppImage/libappimage) - Implements functionality for dealing with AppImage files, written in C++ using Boost
 - [libzsync-go](https://github.com/AppImageCrafters/libzsync-go) - zsync implementation written in Go that can be used to update AppImages
+
+### Templates
+
+- [wxWidgetsTemplate](https://github.com/Ravbug/wxWidgetsTemplate) - Cross-platform application template for wxWidgets C++, with pre-set files and IDE projects, supporting AppImage
 
 ## Resources
 
