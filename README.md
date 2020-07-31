@@ -212,7 +212,7 @@
 
 ### Community
 
-- [#AppImage channel on Freenode](https://webchat.freenode.net/) - Chat where AppImage developers and users hang out, be prepared to stay in the channel for days if you don't get answers immediately
+- [#AppImage channel on Freenode](https://kiwiirc.com/nextclient/irc.freenode.net/#AppImage) - Chat where AppImage developers and users hang out, be prepared to stay in the channel for days if you don't get answers immediately
 - [discourse.appimage.org](https://discourse.appimage.org/) - Official AppImage forum for users and application developers
 
 ### Miscellaneous
