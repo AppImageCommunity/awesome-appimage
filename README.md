@@ -96,7 +96,8 @@
 
 ### Low-level tools
 
-- [appimagetool](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - Converts AppDir into AppImage
+- [appimagetool](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - Converts AppDirs into AppImages
+- [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Converts Nix derivations into AppImages
 
 ### Build systems
 
