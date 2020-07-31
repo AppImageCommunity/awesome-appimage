@@ -127,6 +127,6 @@
 
 ### Community
 
-- [discourse.appimage.org](https://discourse.appimage.org/) Official AppImage forum for users and application developers
+- [discourse.appimage.org](https://discourse.appimage.org/) - Official AppImage forum for users and application developers
 
 ### Miscellaneous
