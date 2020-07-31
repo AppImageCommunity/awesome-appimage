@@ -42,12 +42,19 @@
 
 ## AppImage discovery
 
+### App catalogs
+
+- [appimage.github.io](https://appimage.github.io/) Catalog of AppImages that passed an automated test, links to upstream download pages
+
 ### App stores
 
-- [AppImageHub.com](https://www.appimagehub.com/) Catalog of downloadable AppImages, powered by [Opendesktop.org](https://www.opendesktop.org/)
+- [AppImageHub.com](https://www.appimagehub.com/) Downloadable AppImages, powered by [Opendesktop.org](https://www.opendesktop.org/)
 - [pling.com](https://www.pling.com/) Open store where creators can publish their libre products and creative content including AppImages
+- [https://linuxappstore.io/](Linux App Store) Universal app store for Linux applications in AppImage, Flatpak, and Snap formats (project abandoned)
 
 ### App centers
+
+- [NX Software Center](https://github.com/Nitrux/nx-software-center) Portable Software Center for portable AppImage applications
 
 ## AppImage consumption tools
 
