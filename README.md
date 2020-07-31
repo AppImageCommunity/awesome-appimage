@@ -34,6 +34,9 @@
 	- [Build systems](#build-systems)
 	- [Deployment tools for compiled applications](#deployment-tools-for-compiled-applications)
 	- [Deployment tools for Python applications](#deployment-tools-for-python-applications)
+	- [Deployment tools for Electron applications](#deployment-tools-for-electron-applications)
+	- [Deployment tools for Windows applications](#deployment-tools-for-windows-applications)
+	- [Deployment tools for Java applications](#deployment-tools-for-java-applications)
 	- [Tools to convert from other package formats](#tools-to-convert-from-other-package-formats)
 	- [QC tools](#qc-tools)
 	- [Libraries](#libaries)
@@ -110,6 +113,21 @@
 - [python-appimage](https://github.com/niess/python-appimage) - Ready to use AppImage distributions of Python (can be modified to include your application)
 - [linuxdeploy-plugin-python](https://github.com/niess/linuxdeploy-plugin-python) - Bundle Python into an AppDir using a source distribution and linuxdeploy
 - [linuxdeploy-plugin-conda](https://github.com/linuxdeploy/linuxdeploy-plugin-conda) - Bundle Python into an AppDir using a source distribution, Conda, and linuxdeploy
+- [https://briefcase.readthedocs.io/](Briefcase) - Convert Python project into a standalone native application, e.g., using AppImage
+- [pycharm-appimage-support](https://gitlab.com/chezmurray/pycharm-appimage-support) - Deploy Python project as an AppImage directly from the PyCharm IDE
+
+### Deployment tools for Electron applications
+
+- [electron-builder](https://github.com/electron-userland/electron-builder) - Supports AppImage as an output format
+
+### Deployment tools for Windows applications
+
+- [win32-appimage](https://github.com/sudo-give-me-coffee/win32-appimage) - WINE-based AppImage creator for Windows applications
+- [AppImage For WINE](https://github.com/Hackerl/Wine_Appimage) - WINE-based AppImages and LD_PRELOAD based patches to launch WINE from AppImages
+
+### Deployment tools for Java applications
+
+- [nbPackager](https://github.com/trixon/nbPackager) - Packages NetBeans Platform Application with a JRE for AppImage, Linux, MacOS and Windows
 
 ### Tools to convert from other package formats
 
