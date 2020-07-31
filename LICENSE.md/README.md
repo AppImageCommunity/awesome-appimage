@@ -13,7 +13,7 @@
 	</p>
 	<br>
 	<p>
-		<a href="https://appimage.org">AppImage</a> is a format to distribute applications to various mainstream Linux distributions. One app = one file!
+		<a href="https://appimage.org">AppImage</a> is a format to distribute applications to various mainstream Linux distributions. One app = one file! As the vibrant community around AppImage is growing, so is this list.
 	</p>
 	<br>
 </div>
