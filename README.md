@@ -169,6 +169,7 @@
 ### Documentation
 
 - [docs.appimage.org](https://docs.appimage.org/) - Official AppImage documentation
+- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - appimage-builder documentation. Includes tutorials, examples, and more.
 
 ### Tutorials
 
