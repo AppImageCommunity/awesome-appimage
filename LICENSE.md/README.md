@@ -25,8 +25,10 @@
 	- [App Centers](#app-centers)
 - [AppImage consumption tools](#appimage-consumption-tools)
 	- [Desktop integration](#desktop-integration)
+	- [Updaters](#updaters)
 	- [Package managers](#package-managers)
 - [AppImage production tools](#appimage-production-tools)
+- [AppImage libraries](#appimage-libaries)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Articles](#articles)
@@ -64,9 +66,18 @@
 - [appimaged](https://github.com/AppImage/appimaged) - Optional daemon that integrates AppImages into the system (deprecated).
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Asks user to move AppImages into applications directory and integrates them into the system.
 
+### Updaters
+
+- [AppImageUpdate](https://github.com/AppImage/AppImageUpdate) - Official grapical application to update AppImages; command-line tool to update AppImages
+- [AppImageUpdater](https://github.com/antony-jr/AppImageUpdater) - A Simple updater for humans written in C++ and Qt
+
 ### Package managers
 
 ## AppImage production tools
+
+## AppImage libraries
+
+- [AppImageUpdaterBridge](https://github.com/antony-jr/AppImageUpdaterBridge) - Qt5 library and plugin for updating AppImages, can be embedded into applications
 
 ## Resources
 
