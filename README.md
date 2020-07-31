@@ -93,7 +93,7 @@
 
 ### Package managers
 
-- [appimage-installer](https://github.com/azubieta/appimage-installer) - Command-line tool for managing AppImages allowing to search, install, remove and update applications
+- [appimage-manager](https://github.com/AppImageCrafters/appimage-manager) - Command-line tool for managing AppImages allowing to search, install, remove and update applications
 
 ## AppImage developer tools
 
