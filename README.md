@@ -76,6 +76,7 @@
 ### App scrapers
 
 - [appimages.scraper](https://github.com/azubieta/appimages.scraper) - Search for AppImage releases over the web
+- [AppImageRadar](https://github.com/AppImage/AppImageRadar) - Search for AppImage-related activity on GitHub using Travis CI
 
 ## AppImage consumption tools
 
