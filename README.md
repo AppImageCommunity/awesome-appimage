@@ -32,6 +32,7 @@
 - [AppImage developer tools](#appimage-developer-tools)
 	- [Low-level tools](#low-level tools)
 	- [Deployment tools for compiled applications](#deployment-tools-for-compiled-applications)
+	- [Tools to convert from other package formats](#tools-to-convert-from-other-package-formats)
 	- [Libraries](#libaries)
 - [Resources](#resources)
 	- [Specs](#specs)
@@ -94,6 +95,10 @@
 
 - [linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications
 - [linuxdeploy](https://github.com/linuxdeploy/linuxdeploy) - AppDir creation and maintenance tool using plugins
+
+### Tools to convert from other package formats
+
+- [pkg2appimage](https://github.com/AppImage/pkg2appimage) - Converts from deb, zip, tar.gz and other formats to AppImage using YAML recipes
 
 ### Libraries
 
