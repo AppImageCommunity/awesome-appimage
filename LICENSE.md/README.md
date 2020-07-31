@@ -44,6 +44,9 @@
 
 ### App stores
 
+- [AppImageHub.com](https://www.appimagehub.com/) Catalog of downloadable AppImages, powered by [Opendesktop.org](https://www.opendesktop.org/)
+- [pling.com](https://www.pling.com/) Open store where creators can publish their libre products and creative content including AppImages
+
 ### App centers
 
 ## AppImage consumption tools
