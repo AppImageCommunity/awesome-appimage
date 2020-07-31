@@ -30,8 +30,12 @@
 	- [Updaters](#updaters)
 	- [Package managers](#package-managers)
 - [AppImage developer tools](#appimage-developer-tools)
+	- [Low-level tools](#low-level tools)
+	- [Deployment tools for compiled applications](#deployment-tools-for-compiled-applications)
 	- [Libraries](#libaries)
 - [Resources](#resources)
+	- [Specs](#specs)
+	- [Documentation](#documentation)
 	- [Tutorials](#tutorials)
 	- [Articles](#articles)
 	- [Newsletters](#newsletters)
@@ -83,12 +87,26 @@
 
 ## AppImage developer tools
 
+### Low-level tools
+
+- [appimagetool](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - Converts AppDir into AppImage
+
+### Deployment tools for compiled applications
+
+- [linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications
+- [linuxdeploy](https://github.com/linuxdeploy/linuxdeploy) - AppDir creation and maintenance tool using plugins
+
 ### Libraries
 
 - [AppImageUpdaterBridge](https://github.com/antony-jr/AppImageUpdaterBridge) - Qt5 library and plugin for updating AppImages, can be embedded into applications
 - [AppImageServices](https://github.com/azubieta/AppImageServices) - D-Bus services providing a high-level interface over the AppImage manipulation libraries for file managers, software centers and other tools
+- [libappimage](https://github.com/AppImage/libappimage) - Implements functionality for dealing with AppImage files, written in C++ using Boost
 
 ## Resources
+
+### Specs
+
+### Documentation
 
 ### Tutorials
 
