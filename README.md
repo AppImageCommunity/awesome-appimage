@@ -30,7 +30,8 @@
 	- [Updaters](#updaters)
 	- [Package managers](#package-managers)
 - [AppImage developer tools](#appimage-developer-tools)
-	- [Low-level tools](#low-level tools)
+	- [Low-level tools](#low-level-tools)
+	- [Build systems](#build-systems)
 	- [Deployment tools for compiled applications](#deployment-tools-for-compiled-applications)
 	- [Tools to convert from other package formats](#tools-to-convert-from-other-package-formats)
 	- [Libraries](#libaries)
@@ -91,6 +92,10 @@
 ### Low-level tools
 
 - [appimagetool](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - Converts AppDir into AppImage
+
+### Build systems
+
+- [appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - Recipe based AppImage creation tool working from source
 
 ### Deployment tools for compiled applications
 
