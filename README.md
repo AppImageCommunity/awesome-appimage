@@ -155,4 +155,6 @@
 ### Miscellaneous
 
 - [appimage.org](https://appimage.org/) - Official AppImage landing page
+- [AppImage wiki](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki
+- [r/AppImage/](https://www.reddit.com/r/AppImage/) - AppImage subreddit
 - [Similar projects](https://github.com/AppImage/AppImageKit/wiki/Similar-projects) - Comparison to other packaging systems
