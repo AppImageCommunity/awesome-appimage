@@ -143,8 +143,9 @@
 
 ### Continuous integration
 
-- [Travis CI example](https://github.com/probonopd/linuxdeployqt#using-linuxdeployqt-with-travis-ci) - Travis CI example  for producing AppImages using linuxdeployqt
+- [Travis CI example](https://github.com/probonopd/linuxdeployqt#using-linuxdeployqt-with-travis-ci) - Travis CI example for producing AppImages using linuxdeployqt
 - [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) - GitHub Action for producing AppImages using appimage-builder
+- [jniltinho/packages](https://github.com/jniltinho/packages) - drone.io example for producing AppImages using go-appimagetool
 
 ### QC tools
 
