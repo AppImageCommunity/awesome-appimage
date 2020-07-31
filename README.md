@@ -44,7 +44,6 @@
 	- [Blogs](#blogs)
 	- [Courses](#courses)
 	- [Cheatsheets](#cheatsheets)
-	- [Tools](#tools)
 	- [Community](#community)
 	- [Miscellaneous](#miscellaneous-1)
 
@@ -106,7 +105,11 @@
 
 ### Specs
 
+- [AppImageSpec](https://github.com/AppImage/AppImageSpec) - Official specification for the AppImage format
+
 ### Documentation
+
+- [docs.appimage.org](https://docs.appimage.org/) - Official AppImage documentation
 
 ### Tutorials
 
@@ -123,5 +126,7 @@
 ### Courses
 
 ### Community
+
+- [discourse.appimage.org](https://discourse.appimage.org/) Official AppImage forum for users and application developers
 
 ### Miscellaneous
