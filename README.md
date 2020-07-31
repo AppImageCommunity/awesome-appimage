@@ -106,6 +106,11 @@
 
 - [pkg2appimage](https://github.com/AppImage/pkg2appimage) - Converts from deb, zip, tar.gz and other formats to AppImage using YAML recipes
 
+### Continuous integration
+
+- [Travis CI example](https://github.com/probonopd/linuxdeployqt#using-linuxdeployqt-with-travis-ci) - Travis CI example  for producing AppImages using linuxdeployqt
+- [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) - GitHub Action for producing AppImages using appimage-builder
+
 ### Libraries
 
 - [AppImageUpdaterBridge](https://github.com/antony-jr/AppImageUpdaterBridge) - Qt5 library and plugin for updating AppImages, can be embedded into applications
