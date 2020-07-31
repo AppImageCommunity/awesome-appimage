@@ -48,21 +48,21 @@
 
 ### App catalogs
 
-- [appimage.github.io](https://appimage.github.io/) Catalog of AppImages that passed an automated test, links to upstream download pages
+- [appimage.github.io](https://appimage.github.io/) - Catalog of AppImages that passed an automated test, links to upstream download pages
 
 ### App stores
 
-- [AppImageHub.com](https://www.appimagehub.com/) Downloadable AppImages, powered by [Opendesktop.org](https://www.opendesktop.org/)
-- [pling.com](https://www.pling.com/) Open store where creators can publish their libre products and creative content including AppImages
-- [Linux App Store](https://linuxappstore.io/) Universal app store for Linux applications in AppImage, Flatpak, and Snap formats (project abandoned)
+- [AppImageHub.com](https://www.appimagehub.com/) - Downloadable AppImages, powered by [Opendesktop.org](https://www.opendesktop.org/)
+- [pling.com](https://www.pling.com/) - Open store where creators can publish their libre products and creative content including AppImages
+- [Linux App Store](https://linuxappstore.io/) - Universal app store for Linux applications in AppImage, Flatpak, and Snap formats (project abandoned)
 
 ### App centers
 
-- [NX Software Center](https://github.com/Nitrux/nx-software-center) Portable Software Center for portable AppImage applications
+- [NX Software Center](https://github.com/Nitrux/nx-software-center) - Portable Software Center for portable AppImage applications
 
 ### App scrapers
 
-- [appimages.scraper](https://github.com/azubieta/appimages.scraper) Search for AppImage releases over the web
+- [appimages.scraper](https://github.com/azubieta/appimages.scraper) - Search for AppImage releases over the web
 
 ## AppImage consumption tools
 
@@ -75,11 +75,11 @@
 ### Updaters
 
 - [AppImageUpdate](https://github.com/AppImage/AppImageUpdate) - Official grapical application to update AppImages; command-line tool to update AppImages
-- [AppImageUpdater](https://github.com/antony-jr/AppImageUpdater) - A Simple updater for humans written in C++ and Qt
+- [AppImageUpdater](https://github.com/antony-jr/AppImageUpdater) - Simple updater for humans written in C++ and Qt
 
 ### Package managers
 
-- [appimage-installer](https://github.com/azubieta/appimage-installer) Command-line tool for managing AppImages allowing to search, install, remove and update applications
+- [appimage-installer](https://github.com/azubieta/appimage-installer) - Command-line tool for managing AppImages allowing to search, install, remove and update applications
 
 ## AppImage developer tools
 
