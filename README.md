@@ -53,7 +53,9 @@
 	- [Courses](#courses)
 	- [Cheatsheets](#cheatsheets)
 	- [Community](#community)
-	- [Miscellaneous](#miscellaneous-1)
+	- [Miscellaneous](#miscellaneous)
+	- [Related](#related)
+	- [Other awesome lists](#other-awesome-lists)
 
 ## AppImage discovery
 
@@ -205,3 +207,8 @@
 - [AppImage wiki](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki
 - [r/AppImage/](https://www.reddit.com/r/AppImage/) - AppImage subreddit
 - [Similar projects](https://github.com/AppImage/AppImageKit/wiki/Similar-projects) - Comparison to other packaging systems
+
+### Other awesome lists
+
+- [awesome-linuxdeploy](https://github.com/linuxdeploy/awesome-linuxdeploy) - Awesome list on linuxdeploy
+- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub
