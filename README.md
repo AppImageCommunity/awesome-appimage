@@ -111,6 +111,7 @@
 ### Specs
 
 - [AppImageSpec](https://github.com/AppImage/AppImageSpec) - Official specification for the AppImage format
+- [Desktop Entry Specification](https://specifications.freedesktop.org/desktop-entry-spec/latest/) - specification for the matadata used inside AppImages
 
 ### Documentation
 
@@ -124,9 +125,14 @@
 
 ### Videos
 
+- [AppImage: Portable applications for Linux](https://www.youtube.com/watch?v=nzZ6Ikc7juw) - Official AppImage introduction video by its founder 
+
 ### Books
 
 ### Blogs
+
+- [TheAssassin Blog](https://assassinate-you.net/tags/appimage/) - Blog covering AppImage related topics by TheAssassin
+- [AppImage Crafters Blog](https://appimagecrafters.github.io/) - Blog about AppImage creation an usage by azubieta
 
 ### Courses
 
@@ -135,3 +141,5 @@
 - [discourse.appimage.org](https://discourse.appimage.org/) - Official AppImage forum for users and application developers
 
 ### Miscellaneous
+
+- (appimage.org)[https://appimage.org/] - Official AppImage landing page
