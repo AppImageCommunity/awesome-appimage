@@ -170,6 +170,8 @@
 
 ### Tutorials
 
+- [Produce an AppImage that bundles everything with go-appimage](https://www.youtube.com/watch?v=XTGn_JqmDu0) - How to make an AppImage that bundles _all_ required libraries so that it should run not only on newer, but also on _older_ systems than the build system
+
 ### Articles
 
 ### Newsletters
