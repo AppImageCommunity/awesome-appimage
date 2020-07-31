@@ -21,14 +21,16 @@
 ## Contents
 
 - [AppImage discovery](#appimage-discovery)
-	- [App Stores](#app-stores)
-	- [App Centers](#app-centers)
+	- [App catalogs](#app-catalogs)
+	- [App stores](#app-stores)
+	- [App centers](#app-centers)
+	- [App scrapers](#app-scrapers)
 - [AppImage consumption tools](#appimage-consumption-tools)
 	- [Desktop integration](#desktop-integration)
 	- [Updaters](#updaters)
 	- [Package managers](#package-managers)
-- [AppImage production tools](#appimage-production-tools)
-- [AppImage libraries](#appimage-libaries)
+- [AppImage developer tools](#appimage-developer-tools)
+	- [Libraries](#libaries)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Articles](#articles)
@@ -58,6 +60,10 @@
 
 - [NX Software Center](https://github.com/Nitrux/nx-software-center) Portable Software Center for portable AppImage applications
 
+### App scrapers
+
+- [appimages.scraper](https://github.com/azubieta/appimages.scraper) Search for AppImage releases over the web
+
 ## AppImage consumption tools
 
 ### Desktop integration
@@ -73,11 +79,14 @@
 
 ### Package managers
 
-## AppImage production tools
+- [appimage-installer](https://github.com/azubieta/appimage-installer) Command-line tool for managing AppImages allowing to search, install, remove and update applications
 
-## AppImage libraries
+## AppImage developer tools
+
+### Libraries
 
 - [AppImageUpdaterBridge](https://github.com/antony-jr/AppImageUpdaterBridge) - Qt5 library and plugin for updating AppImages, can be embedded into applications
+- [AppImageServices](https://github.com/azubieta/AppImageServices) - D-Bus services providing a high-level interface over the AppImage manipulation libraries for file managers, software centers and other tools
 
 ## Resources
 
