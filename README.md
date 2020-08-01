@@ -113,6 +113,7 @@
 
 - [appimagecraft](https://github.com/TheAssassin/appimagecraft) - Recipe based AppImage creation tool working from source
 - [appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - Recipe based AppImage creation tool working from source
+- [KDE Craft](https://invent.kde.org/packaging/craft) - Build system used by KDE that can produce AppImages and other formats
 
 ### Deployment tools for compiled applications
 
@@ -135,7 +136,6 @@
 ### Deployment tools for Windows applications
 
 - [wine32-deploy](https://github.com/sudo-give-me-coffee/wine32-deploy) - Creates AppImages for 32-bit Windows applications that can run on 64-bit Linux systems without multilib installed
-- [win32-appimage](https://github.com/sudo-give-me-coffee/win32-appimage) - WINE-based AppImage creator for Windows applications
 - [AppImage For WINE](https://github.com/Hackerl/Wine_Appimage) - WINE-based AppImages and LD_PRELOAD based patches to launch WINE from AppImages
 
 ### Deployment tools for Java applications
