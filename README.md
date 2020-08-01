@@ -100,6 +100,7 @@
 - [appimage-manager](https://github.com/AppImageCrafters/appimage-manager) - Command-line tool for managing AppImages allowing to search, install, remove and update applications
 - [bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing Linux applications supporting AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications
 - [homebrew-appimage](https://github.com/athrunsun/homebrew-appimage) - Linuxbrew AppImage Formulae
+- [AIPM](https://github.com/michaeldelago/aipm) - A Package Manager for AppImages
 
 ## AppImage developer tools
 
