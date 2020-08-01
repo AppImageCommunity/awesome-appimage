@@ -205,6 +205,7 @@
 
 ### Blogs
 
+- [Planet AppImage](https://appimage.gitlab.io/planet/) - Blog Aggregator
 - [TheAssassin Blog](https://assassinate-you.net/tags/appimage/) - Blog covering AppImage related topics by TheAssassin
 - [AppImage Crafters Blog](https://appimagecrafters.github.io/) - Blog about AppImage creation an usage by azubieta
 
