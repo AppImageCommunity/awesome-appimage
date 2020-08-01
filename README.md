@@ -51,7 +51,6 @@
 	- [Books](#books)
 	- [Blogs](#blogs)
 	- [Courses](#courses)
-	- [Cheatsheets](#cheatsheets)
 	- [Community](#community)
 	- [Miscellaneous](#miscellaneous)
 	- [Related](#related)
