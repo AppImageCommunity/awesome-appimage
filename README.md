@@ -215,12 +215,13 @@
 
 - [#AppImage channel on Freenode](https://kiwiirc.com/nextclient/irc.freenode.net/#AppImage) - Chat where AppImage developers and users hang out, be prepared to stay in the channel for days if you don't get answers immediately
 - [discourse.appimage.org](https://discourse.appimage.org/) - Official AppImage forum for users and application developers
+- [stackoverflow](https://stackoverflow.com/tags/AppImage) - Questions tagged [appimage] on stackoverflow
+- [r/AppImage/](https://www.reddit.com/r/AppImage/) - AppImage subreddit
 
 ### Miscellaneous
 
 - [appimage.org](https://appimage.org/) - Official AppImage landing page
 - [AppImage wiki](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki
-- [r/AppImage/](https://www.reddit.com/r/AppImage/) - AppImage subreddit
 - [Similar projects](https://github.com/AppImage/AppImageKit/wiki/Similar-projects) - Comparison to other packaging systems
 - [AppImageZip](https://github.com/sagebind/appimagezip) - Experimental pure Rust implementation of the AppImage runtime that uses Zip as the backing file system image
 
