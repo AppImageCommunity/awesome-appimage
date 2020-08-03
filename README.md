@@ -57,7 +57,7 @@
 
 ### App catalogs
 
-- [appimage.github.io](https://appimage.github.io/) - Catalog of AppImages that passed an automated test, links to upstream download pages.
+- [AppImage.GitHub.io](https://appimage.github.io/) - Catalog of AppImages that passed an automated test, links to upstream download pages.
 
 ### App stores
 
@@ -124,7 +124,7 @@
 - [python-appimage](https://github.com/niess/python-appimage) - Ready to use AppImage distributions of Python (can be modified to include your application).
 - [linuxdeploy-plugin-python](https://github.com/niess/linuxdeploy-plugin-python) - Bundle Python into an AppDir using a source distribution and linuxdeploy.
 - [linuxdeploy-plugin-conda](https://github.com/linuxdeploy/linuxdeploy-plugin-conda) - Bundle Python into an AppDir using a source distribution, Conda, and linuxdeploy.
-- [https://briefcase.readthedocs.io/](Briefcase) - Convert Python project into a standalone native application, e.g., using AppImage.
+- [Briefcase](https://briefcase.readthedocs.io/) - Convert Python project into a standalone native application, e.g., using AppImage.
 - [pycharm-appimage-support](https://gitlab.com/chezmurray/pycharm-appimage-support) - Deploy Python project as an AppImage directly from the PyCharm IDE.
 
 ### Deployment tools for Electron applications
@@ -149,23 +149,23 @@
 - [AppImage cobbler](https://gitlab.com/brinkervii/appimage-cobbler) - Python application that takes strace.log and turns it into a directory suited for an AppImage.
 - [Elements](https://gitlab.com/scottywz/elements) - Tool to generate single-file, runc-based AppImages using a minimal (~3 MB compressed) Alpine Linux rootfs.
 
+### QC tools
+
+- [AppImage.GitHub.io](https://appimage.github.io/) - Automated test running on Travis CI to ensure that AppImages can run on the oldest still-supported Ubuntu LTS release.
+- [appimagelint](https://github.com/TheAssassin/appimagelint) - Tool to check AppImages for compatibility, best practices etc.
+
 ### Continuous integration
 
 - [Travis CI example](https://github.com/probonopd/linuxdeployqt#using-linuxdeployqt-with-travis-ci) - Travis CI example for producing AppImages using linuxdeployqt.
 - [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) - GitHub Action for producing AppImages using appimage-builder.
 - [jniltinho/packages](https://github.com/jniltinho/packages) - drone.io example for producing AppImages using go-appimagetool.
 
-### QC tools
-
-- [appimage.github.io](https://appimage.github.io/) - Automated test running on Travis CI to ensure that AppImages can run on the oldest still-supported Ubuntu LTS release.
-- [appimagelint](https://github.com/TheAssassin/appimagelint) - Tool to check AppImages for compatibility, best practices etc.
-
 ### Libraries
 
 - [AppImageUpdaterBridge](https://github.com/antony-jr/AppImageUpdaterBridge) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
 - [AppImageServices](https://github.com/azubieta/AppImageServices) - D-Bus services providing a high-level interface over the AppImage manipulation libraries for file managers, software centers and other tools.
 - [libappimage](https://github.com/AppImage/libappimage) - Implements functionality for dealing with AppImage files, written in C++ using Boost.
-- [libzsync-go](https://github.com/AppImageCrafters/libzsync-go) - zsync implementation written in Go that can be used to update AppImages.
+- [libzsync-go](https://github.com/AppImageCrafters/libzsync-go) - Zsync implementation written in Go that can be used to update AppImages.
 
 ### Templates
 
@@ -179,12 +179,12 @@
 ### Specs
 
 - [AppImageSpec](https://github.com/AppImage/AppImageSpec) - Official specification for the AppImage format.
-- [Desktop Entry Specification](https://specifications.freedesktop.org/desktop-entry-spec/latest/) - specification for the matadata used inside AppImages.
+- [Desktop Entry Specification](https://specifications.freedesktop.org/desktop-entry-spec/latest/) - Specification for the matadata used inside AppImages.
 
 ### Documentation
 
 - [docs.appimage.org](https://docs.appimage.org/) - Official AppImage documentation.
-- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - appimage-builder documentation, includes tutorials, examples, and more.
+- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - Documentation of appimage-builder, includes tutorials, examples, and more.
 
 ### Tutorials
 
@@ -199,7 +199,7 @@
 - [AppImage: Portable applications for Linux](https://www.youtube.com/watch?v=nzZ6Ikc7juw) - Official AppImage introduction video by its founder .
 - [Comparing Linux Package Formats - Deb, Flatpak, AppImage, etc.](https://www.youtube.com/watch?v=7fPShv-8Z_4) - By Bryan Lunduke.
 - [AppImage: Universal Linux Apps, Overview and Thoughts](https://www.youtube.com/watch?v=tMqES2pNxYY) - By Jeremy "Jay" LaCroix, LearnLinuxTV.
-- [AppImage system integration on Ubuntu using go-appimaged](https://www.youtube.com/watch?v=L00UjifUEfE) - appimaged daemon from the go-appimage implementation.
+- [AppImage system integration on Ubuntu using go-appimaged](https://www.youtube.com/watch?v=L00UjifUEfE) - New appimaged daemon from the go-appimage implementation.
 - [Integrate and Manage AppImages with AppImageLauncher](https://www.youtube.com/watch?v=D2WA2zdLvVk) - By Eric Adams.
 
 ### Books
@@ -218,7 +218,7 @@
 
 - [#AppImage channel on Freenode](https://kiwiirc.com/nextclient/irc.freenode.net/#AppImage) - Chat where AppImage developers and users hang out, be prepared to stay in the channel for days if you don't get answers immediately.
 - [discourse.appimage.org](https://discourse.appimage.org/) - Official AppImage forum for users and application developers.
-- [stackoverflow](https://stackoverflow.com/tags/AppImage) - Questions tagged [appimage] on Stack Overflow.
+- [Stack Overflow](https://stackoverflow.com/tags/AppImage) - Questions tagged [appimage] on Stack Overflow.
 - [r/AppImage/](https://www.reddit.com/r/AppImage/) - AppImage subreddit.
 
 ### Miscellaneous
