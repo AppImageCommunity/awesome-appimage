@@ -2,9 +2,6 @@
 	<div>
 		<img width="500" src="media/logo.svg" alt="Awesome AppImage">
 	</div>
-	<br>
-	<br>
-	<br>
 	<a href="https://awesome.re">
 		<!img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
@@ -12,13 +9,11 @@
 		<sub>Lovingly crafted AppImage tools and resources. Follow me on <a href="https://twitter.com/probonopd">Twitter</a>.</sub>
 	</p>
 	<br>
-	<p>
-		<a href="https://appimage.org">AppImage</a> is a format to distribute applications to various mainstream Linux distributions. One app = one file! As the vibrant community around AppImage is growing, so is this list.
-	</p>
-	<br>
 </div>
 
 # Awesome AppImage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<a href="https://appimage.org">AppImage</a> is a format to distribute applications to various mainstream Linux distributions. One app = one file! As the vibrant community around AppImage is growing, so is this list.
 
 ## Contents
 
