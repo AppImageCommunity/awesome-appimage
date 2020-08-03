@@ -44,7 +44,6 @@
 	- [Documentation](#documentation)
 	- [Tutorials](#tutorials)
 	- [Articles](#articles)
-	- [Newsletters](#newsletters)
 	- [Videos](#videos)
 	- [Books](#books)
 	- [Blogs](#blogs)
@@ -193,7 +192,9 @@
 
 ### Articles
 
-### Newsletters
+- [The Background Story of AppImage](https://itsfoss.com/appimage-interview/) - Interview with the creator of AppImage, exlpaining the key ideas and motivations behind the concept.
+- [Flatpak, Snap and AppImage](https://distrowatch.com/weekly.php?issue=20160704#opinion) - Jesse Smith on DistroWatch about AppImage, Flatpak and Snap.
+- [Don't Install, Just Copy with klik](https://dot.kde.org/2005/09/16/dont-install-just-copy-klik) - Article from 2005 that gives perspective on how AppImage started, relevant only for historical reasons now.
 
 ### Videos
 
