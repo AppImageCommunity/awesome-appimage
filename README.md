@@ -37,7 +37,7 @@
 	- [Tools to convert from other package formats](#tools-to-convert-from-other-package-formats)
 	- [QC tools](#qc-tools)
 	- [Continuous integration](#continuous-integration)
-	- [Libraries](#libaries)
+	- [Libraries](#libraries)
 	- [Templates](#templates)
 - [Resources](#resources)
 	- [Specs](#specs)
