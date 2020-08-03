@@ -13,7 +13,7 @@
 
 # Awesome AppImage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<a href="https://appimage.org">AppImage</a> is a format to distribute applications to various mainstream Linux distributions. One app = one file! As the vibrant community around AppImage is growing, so is this list.
+[AppImage](https://appimage.org) is a format to distribute applications to various mainstream Linux distributions. One app = one file! As the vibrant community around AppImage is growing, so is this list.
 
 ## Contents
 
