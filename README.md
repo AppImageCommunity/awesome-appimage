@@ -6,7 +6,7 @@
 	<br>
 	<br>
 	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+		<!img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
 		<sub>Lovingly crafted AppImage tools and resources. Follow me on <a href="https://twitter.com/probonopd">Twitter</a>.</sub>
@@ -17,6 +17,8 @@
 	</p>
 	<br>
 </div>
+
+# Awesome AppImage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 
