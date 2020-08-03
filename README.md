@@ -36,6 +36,7 @@
 	- [Deployment tools for Java applications](#deployment-tools-for-java-applications)
 	- [Tools to convert from other package formats](#tools-to-convert-from-other-package-formats)
 	- [QC tools](#qc-tools)
+	- [Continuous integration](#continuous-integration)
 	- [Libraries](#libaries)
 	- [Templates](#templates)
 - [Resources](#resources)
@@ -158,7 +159,7 @@
 
 - [Travis CI example](https://github.com/probonopd/linuxdeployqt#using-linuxdeployqt-with-travis-ci) - Travis CI example for producing AppImages using linuxdeployqt.
 - [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) - GitHub Action for producing AppImages using appimage-builder.
-- [jniltinho/packages](https://github.com/jniltinho/packages) - drone.io example for producing AppImages using go-appimagetool.
+- [jniltinho/packages](https://github.com/jniltinho/packages) - Drone.io example for producing AppImages using go-appimagetool.
 
 ### Libraries
 
