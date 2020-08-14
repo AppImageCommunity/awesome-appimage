@@ -25,6 +25,7 @@
 - [AppImage consumption tools](#appimage-consumption-tools)
 	- [Desktop integration](#desktop-integration)
 	- [Updaters](#updaters)
+	- [Sandboxes](#sandboxes)
 	- [Package managers](#package-managers)
 - [AppImage developer tools](#appimage-developer-tools)
 	- [Low-level tools](#low-level-tools)
@@ -94,6 +95,10 @@
 - [AppImageUpdate](https://github.com/AppImage/AppImageUpdate) - Official grapical application to update AppImages; command-line tool to update AppImages.
 - [AppImageUpdater](https://github.com/antony-jr/AppImageUpdater) - Simple updater for humans written in C++ and Qt.
 - [appimage-update](https://github.com/AppImageCrafters/appimage-update) - AppImage Update implementation written in Go.
+
+### Sandboxes
+
+- [Firejail](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
 
 ### Package managers
 
