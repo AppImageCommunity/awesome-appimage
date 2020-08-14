@@ -35,6 +35,7 @@
 	- [Deployment tools for Windows applications](#deployment-tools-for-windows-applications)
 	- [Deployment tools for Java applications](#deployment-tools-for-java-applications)
 	- [Tools to convert from other package formats](#tools-to-convert-from-other-package-formats)
+	- [Metadata tools](#metadata-tools)
 	- [QC tools](#qc-tools)
 	- [Continuous integration](#continuous-integration)
 	- [Libraries](#libraries)
@@ -149,6 +150,11 @@
 - [make-portable](https://github.com/sudo-give-me-coffee/make-portable) - Deploys installed application to AppDir, uses strace to fetch all file system calls and copies all accessed files in to AppDir including glibc.
 - [AppImage cobbler](https://gitlab.com/brinkervii/appimage-cobbler) - Python application that takes strace.log and turns it into a directory suited for an AppImage.
 - [Elements](https://gitlab.com/scottywz/elements) - Tool to generate single-file, runc-based AppImages using a minimal (~3 MB compressed) Alpine Linux rootfs.
+
+### Metadata tools
+
+- [AppStream Generator](https://output.jsbin.com/qoqukof) - Very simple generator for AppStream MetaInfo files which application authors can use to add metadata (like descriptions, screenshots, links) to their AppImage.
+- [AppStream MetaInfo Creator](https://www.freedesktop.org/software/appstream/metainfocreator/#/) - More elaborate generator for AppStream MetaInfo files by the author of the AppStream metainfo format.
 
 ### QC tools
 
