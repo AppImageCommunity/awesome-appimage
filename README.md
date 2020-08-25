@@ -35,7 +35,7 @@
 	- [Deployment tools for Electron applications](#deployment-tools-for-electron-applications)
 	- [Deployment tools for Windows applications](#deployment-tools-for-windows-applications)
 	- [Deployment tools for Java applications](#deployment-tools-for-java-applications)
-	- [Deployment tools for .NET Core (Mono) applicationsv](#deployment-tools-for-net-core-mono-applications)
+	- [Deployment tools for .NET Core (Mono) applications](#deployment-tools-for-net-core-mono-applications)
 	- [Tools to convert from other package formats](#tools-to-convert-from-other-package-formats)
 	- [Metadata tools](#metadata-tools)
 	- [QC tools](#qc-tools)
