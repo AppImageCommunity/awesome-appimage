@@ -27,6 +27,7 @@
 	- [Updaters](#updaters)
 	- [Sandboxes](#sandboxes)
 	- [Package managers](#package-managers)
+	- [Linux distributions](#linux-distributions)
 - [AppImage developer tools](#appimage-developer-tools)
 	- [Low-level tools](#low-level-tools)
 	- [Build systems](#build-systems)
@@ -110,6 +111,14 @@ __Note:__ The AppImage format is explicitly designed _not to need any package ma
 - [homebrew-appimage](https://github.com/athrunsun/homebrew-appimage) - Linuxbrew AppImage Formulae.
 - [AIPM](https://github.com/michaeldelago/aipm) - A Package Manager for AppImages.
 - [Zap](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
+
+
+### Linux distributions
+
+Although the AppImage format was carefully designed not to need any special support from Linux distributions, there are some that offer varying degrees of AppImage friendlyness out of the box.
+
+- [Deepin](https://www.deepin.org/en/) - When you double-click an AppImage or any other executable file that lacks execute permissions, a user-friendly dialog explains the situation and asks for your permission to set the execute permission and execute the executable.
+- [Nitrux](https://nxos.org/) - Promotes the use of AppImage as the main format for getting applications, has a built in app center featuring AppImages.
 
 ## AppImage developer tools
 
