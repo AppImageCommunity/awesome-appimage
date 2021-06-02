@@ -257,7 +257,7 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### Community
 
-- [#AppImage channel on Freenode](https://kiwiirc.com/nextclient/irc.freenode.net/#AppImage) - Chat where AppImage developers and users hang out, be prepared to stay in the channel for days if you don't get answers immediately.
+- [#AppImage channel on libera.chat](https://web.libera.chat/#AppImage) - Chat where AppImage developers and users hang out, be prepared to stay in the channel for days if you don't get answers immediately.
 - [discourse.appimage.org](https://discourse.appimage.org/) - Official AppImage forum for users and application developers.
 - [Stack Overflow](https://stackoverflow.com/tags/AppImage) - Questions tagged `[appimage]` on Stack Overflow.
 - [r/AppImage/](https://www.reddit.com/r/AppImage/) - AppImage subreddit.
