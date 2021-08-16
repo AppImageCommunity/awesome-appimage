@@ -112,7 +112,7 @@ __Note:__ The AppImage format is explicitly designed _not to need any package ma
 - [homebrew-appimage](https://github.com/athrunsun/homebrew-appimage) - Linuxbrew AppImage Formulae.
 - [AIPM](https://github.com/michaeldelago/aipm) - A Package Manager for AppImages.
 - [Zap](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
-- [RookiePM](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts
+- [RookiePM](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
 
 
 ### Linux distributions
