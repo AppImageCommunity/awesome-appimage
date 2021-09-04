@@ -186,13 +186,11 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### QC tools
 
-- [AppImage.GitHub.io](https://appimage.github.io/) - Automated test running on Travis CI to ensure that AppImages can run on the oldest still-supported Ubuntu LTS release.
 - [appimage-testsuite](https://github.com/aferrero2707/appimage-testsuite) - AppImage testing environment based on Docker containers for various Linux distributions.
 - [appimagelint](https://github.com/TheAssassin/appimagelint) - Tool to check AppImages for compatibility, best practices etc.
 
 ### Continuous integration
 
-- [Travis CI example](https://github.com/probonopd/linuxdeployqt#using-linuxdeployqt-with-travis-ci) - Travis CI example for producing AppImages using linuxdeployqt.
 - [GitHub Actions example](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
 - [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
 - [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) - GitHub Action for producing AppImages using appimage-builder.
@@ -266,7 +264,6 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### Miscellaneous
 
-- [appimage.org](https://appimage.org/) - Official AppImage landing page.
 - [AppImage wiki](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki.
 - [AppImageZip](https://github.com/sagebind/appimagezip) - Experimental pure Rust implementation of the AppImage runtime that uses Zip as the backing file system image.
 - [help-wanted](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues) - AppImage issues that the AppImage team would like your help with. A great way to get started contributing to the project.
