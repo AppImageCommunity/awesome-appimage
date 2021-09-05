@@ -177,6 +177,10 @@ Although the AppImage format was carefully designed not to need any special supp
 
 - [flash-to-appimage](https://github.com/CredibleOpossum/flash-to-appimage) - Script to package a Flash game (`.swf`) into an AppImage.
 
+### Deployment tools for Rust applications
+
+- [Cargo AppImage](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
+
 ### Tools to convert from other package formats
 
 - [pkg2appimage](https://github.com/AppImage/pkg2appimage) - Converts from deb, zip, tar.gz and other formats to AppImage using YAML recipes.
