@@ -37,6 +37,8 @@
 	- [Deployment tools for Windows applications](#deployment-tools-for-windows-applications)
 	- [Deployment tools for Java applications](#deployment-tools-for-java-applications)
 	- [Deployment tools for .NET Core (Mono) applications](#deployment-tools-for-net-core-mono-applications)
+	- [Deployment tools for Flash applications](#deployment-tools-for-flash-applications)
+	- [Deployment tools for Rust applications](#deployment-tools-for-rust-applications)
 	- [Tools to convert from other package formats](#tools-to-convert-from-other-package-formats)
 	- [Metadata tools](#metadata-tools)
 	- [QC tools](#qc-tools)
