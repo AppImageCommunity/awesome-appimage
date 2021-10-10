@@ -173,6 +173,7 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### Deployment tools for .NET Core (Mono) applications
 
+- [Publish-AppImage for .NET](https://github.com/kuiperzone/Publish-AppImage) - Publish AppImages for .NET applications.
 - [.NET Core AppImage example](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
 
 ### Deployment tools for Flash applications
