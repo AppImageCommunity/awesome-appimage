@@ -106,6 +106,7 @@
 ### Sandboxes
 
 - [Firejail](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
+- [AppImage Sandboxing Project](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
 
 ### Package managers
 
