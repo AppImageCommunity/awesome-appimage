@@ -64,7 +64,7 @@
 ### App catalogs
 
 - [AppImage.GitHub.io](https://appimage.github.io/) - Catalog of AppImages that passed an automated test, links to upstream download pages.
-- [Get AppImage](https://www.srevinsaju.me/get-appimage/) - Collection of all AppImages in one website. Great search functionality.
+- [Get AppImage](https://g.srev.in/get-appimage/) - Collection of all AppImages in one website. Great search functionality.
 
 ### App stores
 
