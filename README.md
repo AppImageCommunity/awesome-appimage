@@ -162,6 +162,7 @@ Although the AppImage format was carefully designed not to need any special supp
 ### Deployment tools for Electron applications
 
 - [electron-builder](https://github.com/electron-userland/electron-builder) - Supports AppImage as an output format.
+- [electron-forge-maker-appimage](https://github.com/saleae/electron-forge-maker-appimage) - Electron Forge builder for AppImage.
 - [Appnativefy](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
 
 ### Deployment tools for Windows applications
