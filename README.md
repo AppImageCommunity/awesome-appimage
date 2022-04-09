@@ -121,6 +121,7 @@ __Note:__ The AppImage format is explicitly designed _not to need any package ma
 - [Zap](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
 - [RookiePM](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
 - [AppMan](https://github.com/ivan-hc/AppMan) - AppImage Manager that works like APT or Pacman.
+- [jewelrystore](https://rubygems.org/gems/jewelrystore) - Command line AppImage store made in ruby.
 
 ### Linux distributions
 
