@@ -122,6 +122,7 @@ __Note:__ The AppImage format is explicitly designed _not to need any package ma
 - [RookiePM](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
 - [AppMan](https://github.com/ivan-hc/AppMan) - AppImage Manager that works like APT or Pacman.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - Command line AppImage store made in ruby.
+- [ayy](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 
 ### Linux distributions
 
