@@ -1,3 +1,5 @@
+<!--lint disable double-link-->
+
 <div align="center">
 	<div>
 		<img width="500" src="media/logo.svg" alt="Awesome AppImage">
@@ -132,7 +134,7 @@ Although the AppImage format was carefully designed not to need any special supp
 - [Deepin](https://www.deepin.org/en/) - When you double-click an AppImage or any other executable file that lacks execute permissions, a user-friendly dialog explains the situation and asks for your permission to set the execute permission and execute the executable.
 - [Nitrux](https://nxos.org/) - Promotes the use of AppImage as the main format for getting applications, has a built in app center featuring AppImages.
 - [Linux Mint](https://linuxmint.com/) - Has an [AppImage thumbnailer](https://github.com/linuxmint/xapp-thumbnailers) to show application icons on AppImage files.
-- [Zenwalk GNU Linux](http://www.zenwalk.org/) is "AppImage ready" and distributes some applications in AppImage format.
+- [Zenwalk GNU Linux](http://www.zenwalk.org/) - Is "AppImage ready" and distributes some applications in AppImage format.
 
 ## AppImage developer tools
 
