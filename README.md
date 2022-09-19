@@ -150,7 +150,7 @@ Although the AppImage format was carefully designed not to need any special supp
 - [KDE Craft](https://invent.kde.org/packaging/craft) - Build system used by KDE that can produce AppImages and other formats.
 - [appimage-tooling](https://gitlab.com/sgclarkkde/appimage-tooling) - Ruby tooling to generate Appimages.
 - [AppImage.cmake](https://github.com/Ravbug/AppImage.cmake) - CMake script which facilitates generating AppImage executables for Linux.
-- [rules_appimage](https://github.com/lalten/rules_appimage) - Bazel rules to package any lang_binary target as AppImage
+- [rules_appimage](https://github.com/lalten/rules_appimage) - Bazel rules to package any lang_binary target as AppImage.
 
 ### Deployment tools for compiled applications
 
