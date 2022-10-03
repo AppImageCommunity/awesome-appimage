@@ -126,6 +126,7 @@ __Note:__ The AppImage format is explicitly designed _not to need any package ma
 - [AppMan](https://github.com/ivan-hc/AppMan) - AppImage Manager that works like APT or Pacman.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - Command line AppImage store made in ruby.
 - [ayy](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
+- [leap](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
 
 ### Linux distributions
 
