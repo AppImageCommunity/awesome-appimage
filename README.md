@@ -129,6 +129,7 @@ __Note:__ The AppImage format is explicitly designed _not to need any package ma
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - Command line AppImage store made in ruby.
 - [ayy](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 - [leap](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
+- [Bread](https://github.com/pegvin/bread) - Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.
 
 ### Linux distributions
 
