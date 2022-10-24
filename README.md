@@ -301,6 +301,7 @@ Although the AppImage format was carefully designed not to need any special supp
 - [AppImage wiki](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki.
 - [AppImageZip](https://github.com/sagebind/appimagezip) - Experimental pure Rust implementation of the AppImage runtime that uses Zip as the backing file system image.
 - [help-wanted](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues) - AppImage issues that the AppImage team would like your help with. A great way to get started contributing to the project.
+- [appdwarf](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
 
 ### Related
 
