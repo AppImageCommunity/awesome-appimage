@@ -126,7 +126,7 @@ __Note:__ The AppImage format is explicitly designed _not to need any package ma
 - [Zap](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
 - [RookiePM](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
 - ["AM" Application Manager](https://github.com/ivan-hc/AM-Application-Manager) - A Package Manager that works like APT, PacMan or DNF.
-- [AppMan](https://github.com/ivan-hc/AppMan) - A "clone" of "AM" (see above) but portable, that installs all the apps locally, into a directory of your choose.
+- [AppMan](https://github.com/ivan-hc/AppMan) - A "Clone" of "AM" (see above) but portable, which installs all apps locally, in a directory of your choosing.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - Command line AppImage store made in ruby.
 - [ayy](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 - [leap](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
