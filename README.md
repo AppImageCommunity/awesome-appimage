@@ -283,6 +283,7 @@ Although the AppImage format was carefully designed not to need any special supp
 - [AppImage: Universal Linux Apps, Overview and Thoughts](https://www.youtube.com/watch?v=tMqES2pNxYY) - By Jeremy "Jay" LaCroix, LearnLinuxTV.
 - [AppImage system integration on Ubuntu using go-appimaged](https://www.youtube.com/watch?v=L00UjifUEfE) - New appimaged daemon from the go-appimage implementation.
 - [Integrate and Manage AppImages with AppImageLauncher](https://www.youtube.com/watch?v=D2WA2zdLvVk) - By Eric Adams.
+- [ How to run AppImages on Steam Deck Game Mode - Steam OS AppImage Launcher](https://www.youtube.com/watch?v=3LxKAmYmMgE) - By SteamDeckGaming
 
 ### Books
 
