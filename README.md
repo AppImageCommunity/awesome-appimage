@@ -202,7 +202,7 @@ Although the AppImage format was carefully designed not to need any special supp
 ### Deployment tools for Rust applications
 
 - [Cargo AppImage](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
-- [gtk-4-rs-docker](https://github.com/13hannes11/gtk4-rs-docker/blob/main/appimage/Dockerfile) - Docker build system, which can create AppImage for your Rust + GTK4 application
+- [gtk-4-rs-docker](https://github.com/13hannes11/gtk4-rs-docker/blob/main/appimage/Dockerfile) - Docker build system, which can create AppImage for your Rust + GTK4 application.
 
 ### Tools to convert from other package formats
 
