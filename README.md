@@ -161,6 +161,7 @@ Although the AppImage format was carefully designed not to need any special supp
 - [go-appimagetool](https://github.com/probonopd/go-appimage/tree/master/src/appimagetool) - Tool that deploys dependencies into AppDirs, and converts AppDirs into AppImages (experimental).
 - [linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications.
 - [linuxdeploy](https://github.com/linuxdeploy/linuxdeploy) - AppDir creation and maintenance tool using plugins.
+- [XojoToAppImage](https://github.com/AlwaysOfflineSoftware/XojoToAppImage) - Gui tool for packaging compiled Xojo Linux programs into AppImages.
 
 ### Deployment tools for Python applications
 
