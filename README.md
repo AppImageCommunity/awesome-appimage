@@ -60,7 +60,7 @@
 	- [Miscellaneous](#miscellaneous)
 	- [Related](#related)
 	- [Other awesome lists](#other-awesome-lists)
-	- [Expired links](#Expired-links)
+	- [Expired links](#expired-links)
 
 ## AppImage discovery
 
