@@ -67,6 +67,7 @@
 ### App catalogs
 
 - [AppImage.GitHub.io](https://appimage.github.io/) - Catalog of AppImages that passed an automated test, links to upstream download pages.
+- [Portable-Linux-Apps.github.io](https://Portable-Linux-Apps.github.io) - Most complete catalog of AppImages and portable apps with regular testing
 
 ### App stores
 
