@@ -67,6 +67,7 @@
 ### App catalogs
 
 - [AppImage.GitHub.io](https://appimage.github.io/) - Catalog of AppImages that passed an automated test, links to upstream download pages.
+- [Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) - AppImages that bundle all dependencies including libc, so they run on old and musl-based distributions; uses DwarFS for smaller images.
 
 ### App stores
 
