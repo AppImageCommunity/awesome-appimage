@@ -135,6 +135,8 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ## AppImage developer tools
 
+New to making AppImages? Start with the [packaging guide](https://docs.appimage.org/packaging-guide/index.html), which explains how an AppImage is structured and walks through creating one. The tools below automate parts of that process.
+
 ### Low-level tools
 
 - [appimagetool](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - Converts AppDirs into AppImages.
