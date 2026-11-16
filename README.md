@@ -104,6 +104,7 @@
 - [AppImageUpdater](https://github.com/antony-jr/AppImageUpdater) - Simple updater for humans written in C++ and Qt.
 - [appimage-update](https://github.com/AppImageCrafters/appimage-update) - AppImage Update implementation written in Go.
 - [appimage-updater](https://pypi.org/project/appimage-updater/) - AppImage Update implementation written in Python, distributed on PyPi.
+- [Upkeep](https://github.com/lcestou/upkeep) - Graphical tray updater that checks AppImages against their GitHub, GitLab or Codeberg releases, with a restore point before each update and automatic rollback if the new AppImage will not start. Also keeps release binaries, source builds and self-updating tools current from the same list.
 
 ### Sandboxes
 
