@@ -209,6 +209,7 @@ New to making AppImages? Start with the [packaging guide](https://docs.appimage.
 - [Package-to-appimage](https://github.com/CausaPrincipalis71/package-to-appimage) - Tool for converting `.deb` and `.rpm` packages into AppImage format by using Docker.
 - [GMAppImager](https://github.com/samuelvenable/GMAppImager) - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
 - [AppImaGen](https://github.com/ivan-hc/AppImaGen) - Generates an AppImage from Debian or from a PPA of your choice for the previous (unfortunately not the oldest as recommended) and still supported Ubuntu LTS.
+- [alr2appimage](https://github.com/mgrojo/alr2appimage) - Generates an AppImage from an Alire crate (Ada language) with minimal (or none) extra configuration.
 
 ### Metadata tools
 
@@ -224,6 +225,7 @@ New to making AppImages? Start with the [packaging guide](https://docs.appimage.
 - [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) - GitHub Action for producing AppImages using appimage-builder.
 - [jniltinho/packages](https://github.com/jniltinho/packages) - Drone.io example for producing AppImages using go-appimagetool.
 - [Link to the latest build artifact on GitLab CI](https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build) - Example of how to directly link to the latest build artifact on GitLab CI (can be tricky).
+- [mgrojo/alr2appimage-action](https://github.com/mgrojo/alr2appimage-action) - GitHub action for producing AppImages from Alire crates using alr2appimage.
 
 ### Libraries
 
