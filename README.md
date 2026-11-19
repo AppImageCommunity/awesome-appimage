@@ -97,6 +97,7 @@
 - [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
 - [gnome_appimage_installer](https://github.com/knork-fork/gnome_appimage_installer) - Somewhat a misnomer (AppImages don't need to be "installed"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.
 - [Gear lever](https://github.com/mijorus/gearlever/) - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
+- [appimage-manager](https://github.com/pvojnisek/appimage-manager) - Single-file Python CLI that auto-generates .desktop launchers with XDG hicolor icons and dock support for AppImages. Optional systemd watcher for hands-free operation.
 
 ### Updaters
 
